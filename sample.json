@@ -1,0 +1,30 @@
+
+   [
+     {
+    "trainNumber": "12346",
+    "name": "Express Train",
+    "source": "Station A",
+    "destination": "Station B",
+    "availableSeats": 100,
+    "departureTime": "08:00",
+    "arrivalTime": "12:00"
+  },
+  {
+    "trainNumber": "12345",
+    "name": "Express Train",
+    "source": "Station C",
+    "destination": "Station D",
+    "availableSeats": 100,
+    "departureTime": "08:00",
+    "arrivalTime": "12:00"
+  },
+  {
+    "trainNumber": "12345",
+    "name": "Express Train",
+    "source": "Station E",
+    "destination": "Station F",
+    "availableSeats": 100,
+    "departureTime": "08:00",
+    "arrivalTime": "12:00"
+  }
+]
